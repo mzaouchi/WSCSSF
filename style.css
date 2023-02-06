@@ -1,0 +1,112 @@
+*{
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+nav{
+    margin-left: 800px;
+}
+
+/* nav a{
+    text-decoration: none;
+    font-size: 32px;
+    padding-left: 24px;
+    color: crimson;
+} */
+
+.hazem{
+    text-decoration: none;
+    font-size: 32px;
+    margin-left: 24px;
+    color: blueviolet;
+}
+
+.hazem:hover{
+    color: crimson;
+    text-decoration: underline;
+    font-size: 36px;
+    background-color: aqua;
+}
+
+h2{
+    font-size: 31px;
+    margin-left: 8%;
+    color: #4ECDC4;
+    text-decoration: underline;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 160px;
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    line-height: 43px;
+    display: inline-block;
+    width: 36%;
+    font-size: 19px;
+    margin-left: 131px;
+    text-align: justify;
+}
+
+table,th,td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
+
+td{
+    width: 10%;
+}
+
+td:hover{
+    width: 20%;
+}
+
+table{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+form{
+    width: 21%;
+    margin: auto;
+}
+
+input{
+    margin-left: 46px;
+    margin-bottom: 16px;
+}
+
+#denyaka7la{
+    margin-left: 22px;
+}
+
+button{
+    background-color: #4ECDC4;
+    width: 168px;
+    font-size: 34px;
+    box-shadow: aquamarine;
+    color: white;
+    font-weight: bold;
+    /* border: 11px solid red; */
+    border-radius: 25px;
+}
+
+button:hover{
+    color: #4ECDC4;
+    background-color: white;
+    margin-left: 60px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+footer{
+    text-align: center;
+    font-size: 67px;
+    margin-top: 52px;
+}
